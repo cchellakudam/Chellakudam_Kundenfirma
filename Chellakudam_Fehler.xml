@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<Kundenfirmen id="null">//darf nicht null sien
+
+<Straße>Hubertraße</Strasse>//ß und ss werden nicht gleichgesetz
+		<Hausnummer>42</Hausnummer>
+	</Firmenadresse>
+	<Ansprechperson>
+		<Anrede>Herr</Anrede>
+		<Alter>22</Alter>
+		<Nachname>Mustermann</Nachname>
+		<Vorname>Max</Vorname>
+	//Tags müssen geschlossen werden
+</Kundenfirmen>
+
+<Bestellung id ="01" >
+	
+	<>19-02-2017>19-02-2017<>19-02-2017>// Zahlen werden als Tag nicht unterstützt
+	<Verkaufspreis>600 </Verkaufspreis>
+</Bestellung>
+
+</root1>// muss den gleichen Namen haben wie der Tag
