@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 <Kundenfirmen id="01">
-<Firmenname>Siemens</Firmenname>
-<Firmenadresse>
-<Land>Österreich</Land>
-<Ort>Wien</Ort>
-<PLZ>2000</PLZ>
-<Straße>Hubertraße</Straße>
+	<Firmenname>Siemens</Firmenname>
+	<Firmenadresse>
+		<Land>Österreich</Land>
+		<Ort>Wien</Ort>
+		<PLZ>2000</PLZ>
+		<Straße>Hubertraße</Straße>
 		<Hausnummer>42</Hausnummer>
 	</Firmenadresse>
 	<Ansprechperson>
